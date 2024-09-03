@@ -1,4 +1,4 @@
 #  ignore git.txt files
 *.txt
-*.jpg
-*.png
+/images/*.jpg
+/images/*.png
