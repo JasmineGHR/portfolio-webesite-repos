@@ -1,0 +1,90 @@
+/*body {
+    background-color: #d7d7d7;
+    color: black;
+}
+ General Styles */
+/* General Styles */
+/* General Styles */
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: #ffffff;
+    color: #1b1d1a;
+}
+ 
+ 
+  .sommaire{
+    
+  }
+  .my-profile{
+    margin-top: 10px;
+    background-color: lightblue;
+    display: grid;
+    grid-template-columns: 300px 1fr;
+  }
+
+  .profil-picture{
+    background-color: white;
+    
+  }
+  .profile-info{
+    background-color: rgb(221, 39, 221);
+    
+    vertical-align: top;
+    margin-left: 20px;
+  }
+ 
+.photo-profile{
+    width: 200px;
+    height: 200px;
+    background-color: lightgreen
+    padding-top: 10px;
+    padding: auto;
+    border-radius: 115px;
+    object-fit: contain;
+    box-shadow: 0 0 0 #000000
+}
+
+/*body {
+    background-color: #d7d7d7;
+    color: black;
+}*/
+/* General Styles */
+/*body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: #ffffff;
+    color: #1b1d1a;
+}*/
+/*
+.my-profile {
+    display: flex; /* Utilisation de flexbox pour aligner les éléments sur la même ligne 
+    background-color: #fcfc6675;
+    width: min-content;
+}
+
+.sommaire {
+    width: 600px;
+}
+
+.profile-picture {
+    border: dotted black;
+}
+
+.profile-info {
+    display: inline-block;
+    margin-left: 20px; /* Espace entre la photo et la description 
+}
+
+.photo-profile {
+    width: 220px;
+    height: 200px;
+    background-color: #d6d6d475;
+    padding-top: 10px;
+    border-radius: 115px;
+    object-fit: contain;
+    box-shadow: 0 0 0 #000000;
+}
+*/
