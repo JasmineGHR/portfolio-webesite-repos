@@ -4,23 +4,13 @@ export const projects=[{
     title: "this is my project",
     description: "here is some details "
 },{
-    link: "https://github.com/JasmineGHR/",
-    image: "images/photo-profile.png",
+    link: "http://localhost:3000/allCvs.html",
+    image: "images/cv-project.jpg",
     title: "this is my project",
     description: "here is some details "
 },{
-    link: "https://github.com/JasmineGHR/",
-    image: "images/photo-profile.png",
-    title: "this is my project",
-    description: "here is some details "
-},{
-    link: "https://github.com/JasmineGHR/",
-    image: "images/photo-profile.png",
-    title: "this is my project",
-    description: "here is some details "
-},{
-    link: "https://github.com/JasmineGHR/",
-    image: "images/photo-profile.png",
+    link: "http://localhost:3002/amazon.html",
+    image: "images/amazon-logo.png",
     title: "this is my project",
     description: "here is some details "
 }];
