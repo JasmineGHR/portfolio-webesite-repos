@@ -13,4 +13,9 @@ export const projects=[{
     image: "images/amazon-logo.png",
     title: "this is my project",
     description: "here is some details "
+},{
+    link: "http://localhost:3000/portail/",
+    image: "images/amazon-logo.png",
+    title: "this is my project",
+    description: "here is some details "
 }];

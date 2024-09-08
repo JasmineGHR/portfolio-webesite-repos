@@ -31,6 +31,7 @@ hr {
   .sommaire{
     margin-left: 50px;
     margin-right: 50px;
+    font-size: 20px;
     
   }
   .my-profile{
@@ -53,6 +54,7 @@ hr {
     row-gap: 50px;
     margin-right: 50px;
     align-items: center;
+    justify-content: center;
 
     
     
